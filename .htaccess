@@ -1,0 +1,2 @@
+AddType text/html;/json .html
+AddType text/html;/json .php
